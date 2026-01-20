@@ -1,25 +1,39 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey, I'm Muhammad Junaid 👋  
 
-###
+> Building intelligent autonomous systems that perceive, reason, and adapt.
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+## 🚀 About Me
 
-###
+- 🤖 **Role:** Robotics Software Engineer   
+- 📍 **Location:** Munich, Germany 🇩🇪  
+- 🧠 **Experience:** 3+ years in robotics & software development  
+- ❤️ **Passionate About:** Robotics, Autonomous Systems, and AI-driven perception  
+- 📚 **Currently Exploring:**  
+  `LeRobot · Mobile Robotics · Embedded Systems · Diffusion Models · Vision-Language-Action (VLA) Models · Reinforcement Learning`
+- 🎯 **Goals:**  
+  Designing robust, scalable autonomous systems that bridge research and real-world deployment  
+- 🎲 **Fun Fact:** I enjoy turning research papers into working robots 🤖
 
-<h2 align="left">About me</h2>
+## Tech Stack
 
-###
+```python
+stack = {
+    "languages": ["C++", "Python"],
+    "robotics": ["ROS2", "SLAM", "Perception", "Motion Planning"],
+    "ai": ["PyTorch", "OpenCV", "TensorRT"],
+    "deploy": ["Docker", "Linux", "CI/CD", "Embedded"]
+}
+```
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## Things I have Built
 
 
-###
+## How I Work
+
+```
+Research → Prototype → Deploy → Validate → Ship
+```
 
 <!--
 **Muhammadjunaidmalik1/Muhammadjunaidmalik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
